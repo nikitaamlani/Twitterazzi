@@ -1,4 +1,4 @@
-# MLH Hackathon-HackNY-18
+
 # Twitterazzi
 
 # Inspiration
